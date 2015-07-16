@@ -2,3 +2,5 @@
 2.di er ju hua
 3.dev fen zhi 
 4.creating a new branch is quick and simple
+
+5.update by origin
